@@ -47,6 +47,10 @@ body {
   color: var(--title-color);
 }
 
+.active {
+  color: var(--accent-color);
+}
+
 .navigation-list-link:hover,
 .navigation-list-link:focus,
 .header-contacts:hover,
