@@ -173,16 +173,6 @@ body {
   display: flex;
 }
 
-/*.list-item {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-/*:not(:last-child){
-  margin-right: 30px;*/
-  
-}
-
 .features-title {
   font-weight: 700;
   font-size: 14px;
@@ -252,6 +242,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--subtitle-color);
+  padding-bottom: 30px;
 }
 
 /*============= Footer =============*/
