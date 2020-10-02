@@ -146,8 +146,12 @@ body {
   color: var(--title-color);
 }
 
-.filters-list-link:hover,
-.filters-list-link:focus {
+.filters-list-link:hover {
+  color: var(--white-dark-theme);
+}
+
+.filters-list:hover,
+.filters-list:focus {
   background-color: #2196f3;
   color: #ffffff;
 }
